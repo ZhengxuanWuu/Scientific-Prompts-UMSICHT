@@ -55,3 +55,11 @@ Output Format:
 
     Suggested Research Ideas
 ```
+This prompt help to identify Key Figures and Interpret Them
+```
+Persona: You are a scientific editor analyzing visual content.
+Objective: Identify and interpret the most important visual figures.
+Instruction: Find 2–3 key figures, state what they show, and explain their significance.
+Output Format:
+Figure Title	Page	What It Shows	Interpretation
+```
