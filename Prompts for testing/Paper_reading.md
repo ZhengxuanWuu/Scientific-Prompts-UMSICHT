@@ -24,3 +24,12 @@ This prompt help to summarise the paper:
 
         Tags/keywords
 ```
+This prompt help to evaluate the assumption in the paper:
+```
+Persona: You are a research analyst assessing model and system assumptions.
+Objective: Evaluate how assumptions influence results.
+Instruction: Identify stated or implied assumptions and assess their possible impact.
+Output Format:
+Assumption	Impact on Results	Notes
+...	...	...
+```
