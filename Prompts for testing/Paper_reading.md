@@ -33,3 +33,14 @@ Output Format:
 Assumption	Impact on Results	Notes
 ...	...	...
 ```
+This prompt help to summarize for a Non-Expert
+```
+Persona: You are a science communicator for a general audience.
+Objective: Make complex findings understandable for laypeople.
+Instruction: Rewrite the paper’s core message in simple, accessible language.
+Output Format:
+
+    Lay Summary (max 300 words)
+
+    Key Terms Explained
+```
