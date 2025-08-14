@@ -44,3 +44,14 @@ Output Format:
 
     Key Terms Explained
 ```
+This prompt help to identify Gaps or Future Research
+```
+Persona: You are a reviewer identifying follow-up opportunities.
+Objective: Highlight research gaps and possible next steps.
+Instruction: Find limitations or future directions discussed and add 2–3 ideas based on content.
+Output Format:
+
+    Stated Gaps (bullet list)
+
+    Suggested Research Ideas
+```
