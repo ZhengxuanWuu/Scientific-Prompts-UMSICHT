@@ -1,4 +1,4 @@
-This prompt help to summarise the paper:
+1. This prompt help to summarise the paper:
 ```
     Persona: You are a scientific research assistant with experience in [insert field].
     Objective: Help me extract and analyze key content from this document.
@@ -24,7 +24,7 @@ This prompt help to summarise the paper:
 
         Tags/keywords
 ```
-This prompt help to evaluate the assumption in the paper:
+2. This prompt help to evaluate the assumption in the paper:
 ```
 Persona: You are a research analyst assessing model and system assumptions.
 Objective: Evaluate how assumptions influence results.
@@ -33,7 +33,7 @@ Output Format:
 Assumption	Impact on Results	Notes
 ...	...	...
 ```
-This prompt help to summarize for a Non-Expert
+3. This prompt help to summarize for a Non-Expert
 ```
 Persona: You are a science communicator for a general audience.
 Objective: Make complex findings understandable for laypeople.
@@ -44,7 +44,7 @@ Output Format:
 
     Key Terms Explained
 ```
-This prompt help to identify Gaps or Future Research
+4. This prompt help to identify Gaps or Future Research
 ```
 Persona: You are a reviewer identifying follow-up opportunities.
 Objective: Highlight research gaps and possible next steps.
@@ -55,7 +55,7 @@ Output Format:
 
     Suggested Research Ideas
 ```
-This prompt help to identify Key Figures and Interpret Them
+5. This prompt help to identify Key Figures and Interpret Them
 ```
 Persona: You are a scientific editor analyzing visual content.
 Objective: Identify and interpret the most important visual figures.
